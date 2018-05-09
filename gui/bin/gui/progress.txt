@@ -1,0 +1,20 @@
+//for default login
+    username-shark098@iiitd.ac.in
+    pass=admin543444
+
+Students
+
+done:
+
+>signs up succesfully and stores student data in database
+>succesfully logs in
+>search by post conditial implimented
+>add courses succesfully and stores in Db
+>can look at timetable
+
+remaining:
+>
+
+
+faculty
+>easy implimentation just like student
